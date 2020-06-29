@@ -30,7 +30,7 @@ public class menu extends janela{
         logo.setY(window.getHeight()/2 - logo.height/2);
         musica = new Sound("menu/ost/1.wav");
         musica.play();
-        Sprite logo2 = new Sprite("menu/globo-tv-logo.png");
+        Sprite logo2 = new Sprite("menu/RareLogo2015.png");
         logo2.setX(window.getWidth()/2 - logo2.width/2);
         logo2.setY(window.getHeight()/2 - logo2.height/2);
         inicio = System.currentTimeMillis();

@@ -147,13 +147,13 @@
         <option value="$PROJECT_DIR$/src/application/nave.java" />
         <option value="$PROJECT_DIR$/src/application/level.java" />
         <option value="$PROJECT_DIR$/src/application/menu.java" />
-        <option value="$USER_HOME$/Desktop/Asteroids_cmthread/src/application/obj.java" />
-        <option value="$USER_HOME$/Desktop/Asteroids_cmthread/src/application/nave.java" />
-        <option value="$USER_HOME$/Desktop/Asteroids_cmthread/src/application/janela.java" />
-        <option value="$USER_HOME$/Desktop/Asteroids_cmthread/src/application/asteroid.java" />
-        <option value="$USER_HOME$/Desktop/Asteroids_cmthread/src/application/menu.java" />
-        <option value="$USER_HOME$/Desktop/Asteroids_cmthread/src/application/level.java" />
-        <option value="$USER_HOME$/Desktop/Asteroids_cmthread/src/application/navee.java" />
+        <option value="$PROJECT_DIR$/../Asteroids_cmthread/src/application/obj.java" />
+        <option value="$PROJECT_DIR$/../Asteroids_cmthread/src/application/nave.java" />
+        <option value="$PROJECT_DIR$/../Asteroids_cmthread/src/application/janela.java" />
+        <option value="$PROJECT_DIR$/../Asteroids_cmthread/src/application/asteroid.java" />
+        <option value="$PROJECT_DIR$/../Asteroids_cmthread/src/application/menu.java" />
+        <option value="$PROJECT_DIR$/../Asteroids_cmthread/src/application/level.java" />
+        <option value="$PROJECT_DIR$/../Asteroids_cmthread/src/application/navee.java" />
         <option value="$PROJECT_DIR$/src/application/navee.java" />
       </list>
     </option>
@@ -238,7 +238,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/desenhos" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -405,16 +405,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/Asteroids_cmthread/src/application/tiro.java" />
-    <entry file="file://$USER_HOME$/Desktop/Asteroids_cmthread/src/application/asteroid.java" />
-    <entry file="file://$USER_HOME$/Desktop/Asteroids_cmthread/src/application/janela.java" />
-    <entry file="file://$USER_HOME$/Desktop/Asteroids_cmthread/src/application/obj.java" />
-    <entry file="file://$USER_HOME$/Desktop/Asteroids_cmthread/src/application/Program.java" />
-    <entry file="file://$USER_HOME$/Desktop/Asteroids_cmthread/src/application/thread.java" />
-    <entry file="file://$USER_HOME$/Desktop/Asteroids_cmthread/src/application/level.java" />
-    <entry file="file://$USER_HOME$/Desktop/Asteroids_cmthread/src/application/menu.java" />
-    <entry file="file://$USER_HOME$/Desktop/Asteroids_cmthread/src/application/nave.java" />
-    <entry file="file://$USER_HOME$/Desktop/Asteroids_cmthread/src/application/navee.java" />
+    <entry file="file://$PROJECT_DIR$/../Asteroids_cmthread/src/application/tiro.java" />
+    <entry file="file://$PROJECT_DIR$/../Asteroids_cmthread/src/application/asteroid.java" />
+    <entry file="file://$PROJECT_DIR$/../Asteroids_cmthread/src/application/janela.java" />
+    <entry file="file://$PROJECT_DIR$/../Asteroids_cmthread/src/application/obj.java" />
+    <entry file="file://$PROJECT_DIR$/../Asteroids_cmthread/src/application/Program.java" />
+    <entry file="file://$PROJECT_DIR$/../Asteroids_cmthread/src/application/thread.java" />
+    <entry file="file://$PROJECT_DIR$/../Asteroids_cmthread/src/application/level.java" />
+    <entry file="file://$PROJECT_DIR$/../Asteroids_cmthread/src/application/menu.java" />
+    <entry file="file://$PROJECT_DIR$/../Asteroids_cmthread/src/application/nave.java" />
+    <entry file="file://$PROJECT_DIR$/../Asteroids_cmthread/src/application/navee.java" />
     <entry file="file://$PROJECT_DIR$/src/application/asteroid.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -439,7 +439,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/Asteroids/src/application/Program.java" />
+    <entry file="file://$PROJECT_DIR$/../Asteroids/src/application/Program.java" />
     <entry file="file://$PROJECT_DIR$/src/application/nave.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="410">
